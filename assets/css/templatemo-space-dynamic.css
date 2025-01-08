@@ -949,8 +949,6 @@ About Us Style
 }
 
 .about-us .row {
-  /* background-image: url(../images/about-bg.png); */
-  /* background-image: url('../images/maikarfi-background.png'); */
   background-color: #321e77;
   background-repeat: no-repeat;
   background-position: center center;
@@ -958,11 +956,6 @@ About Us Style
   border-radius: 20px;
   padding: 70px 0px 60px 0px;
 }
-/* 
-.about-us .left-image {
-  margin-right: 75px;
-  float: left;
-} */
 
 .about-us .services .item {
   margin-bottom: 30px;
@@ -1179,11 +1172,6 @@ Blog
   padding-top: 80px;
 }
 
-.our-blog .section-heading h2 {
-  /* margin-right: 180px; */
-  /* text-align: center; */
-}
-
 .our-blog .top-dec {
   text-align: right;
   margin-top: -80px;
@@ -1295,7 +1283,6 @@ contact
 
 .contact-us .contact {
   padding: 80px 0px;
-  /* background-image: url(../images/maikarfi-background.png); */
   background-color: #321e77;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1474,7 +1461,6 @@ responsive
   }
   .main-banner .left-content {
     margin-right: 0px;
-    text-align: center;
     margin-bottom: 45px;
   }
   .main-banner:after {
@@ -1489,30 +1475,6 @@ responsive
     margin-top: 0px;
   }
   
-  
-  /* .about-us {
-    position: relative;
-    background-image: none;
-    padding: 0px;
-  }
-  .about-us .left-image {
-    margin-right: 5px;
-    position: absolute;
-    bottom: -220px;
-    right: 0;
-  }
-  .about-us .services {
-    text-align: center;
-  }
-  .about-us .services .item  {
-    background-color: #321e77;
-    padding: 30px;
-    border-radius: 20px;
-    display: inline-block;
-  }
-  .about-us .services .item .right-text {
-    text-align: left;
-  } */
   .our-services {
     margin-top: 200px;
   }
