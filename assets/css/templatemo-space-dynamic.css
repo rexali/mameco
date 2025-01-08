@@ -1167,7 +1167,7 @@ Blog
 .our-blog {
   position: relative;
   margin-top: 20px;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 .our-blog .top-dec {
@@ -1285,7 +1285,7 @@ contact
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  border-radius: 20px;
+  border-radius: 20px; 
 }
 
 .contact-us .section-heading h2,
@@ -1296,7 +1296,7 @@ contact
 
 .contact-us .section-heading p {
   color: #fff;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .phone-info {
@@ -1500,7 +1500,7 @@ responsive
     margin-bottom: 15px;
   }
   .our-blog {
-    margin-top: 0px;
+    margin-top: 20px;
   }
   .our-blog .top-dec {
     display: none;
@@ -1508,7 +1508,7 @@ responsive
   .our-blog .section-heading h2 {
     margin-right: 0px;
     text-align: left;
-    margin-bottom: 45px;
+    margin-bottom: 2px;
   }
   .our-blog .left-image .info .inner-content {
     position: relative;
@@ -1523,8 +1523,8 @@ responsive
     margin-bottom: 45px;
   }
   .contact-us {
-    margin-top: 60px;
-    padding: 120px 0px;
+    margin-top: 10px;
+    padding: 10px 0px;
   }
   .contact-us .section-heading {
     text-align: left;
