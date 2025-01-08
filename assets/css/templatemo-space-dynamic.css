@@ -945,7 +945,7 @@ About Us Style
 */
 
 #about {
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .about-us .row {
@@ -954,7 +954,7 @@ About Us Style
   background-position: center center;
   background-size: cover;
   border-radius: 20px;
-  padding: 70px 0px 60px 0px;
+  padding: 35px 0px 30px 0px;
 }
 
 .about-us .services .item {
@@ -1083,8 +1083,7 @@ Portfolio
 }
 
 .our-portfolio .section-heading h2 {
-  text-align: center;
-  margin: 0px 15px 0px 15px;
+  margin: 0px 2px 0px 2px;
   margin-bottom: 0px;
   position: relative;
   z-index: 1;
@@ -1105,8 +1104,7 @@ Portfolio
 }
 
 .our-portfolio .hidden-content {
-  background: rgb(24, 26, 159);
-  background: linear-gradient(105deg, rgb(8, 70, 131) 0%, rgb(121, 57, 90) 100%);
+  background: #321e77;
   padding: 30px;
   border-radius: 20px;
   text-align: center;
@@ -1420,8 +1418,16 @@ form#contact button:hover {
   background-color: #193f9f;
 }
 
-.btn .btn-primary:hover {
-  background-color: #251659;
+.btn.btn-primary:hover {
+  background-color: green;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(50, 30, 119, 0.4);
+}
+
+
+.nav-link:hover {
+  background-color: green;
   color: white;
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(50, 30, 119, 0.4);
@@ -1476,7 +1482,7 @@ responsive
   }
   
   .our-services {
-    margin-top: 200px;
+    margin-top: 10px;
   }
   .our-services .left-image {
     margin-right: 0px;
