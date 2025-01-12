@@ -282,7 +282,7 @@ header
 }
 
 .header-area .main-nav .logo {
-  line-height: 80px;
+  line-height: 100px;
   color: #fff;
   font-size: 24px;
   font-weight: 700;
@@ -296,11 +296,11 @@ header
 }
 
 .header-area .main-nav .logo h4 {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
     color: #03a4ed;
-    line-height: 80px;
+    line-height: 100px;
     float: left;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
