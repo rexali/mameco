@@ -897,7 +897,7 @@ preloader
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #03a4ed;
+  background: #321e77;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -920,7 +920,7 @@ preloader
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #03a4ed;
+  background: #321e77;
   border-radius: 50%;
 }
 
