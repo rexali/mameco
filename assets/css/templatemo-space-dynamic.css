@@ -287,7 +287,7 @@ body {
   background-color: #fe3f40;
   font-size: 15px;
   font-weight: 400;
-  color: #fff;
+  color: #fff;   
   text-transform: capitalize;
   padding: 12px 25px;
   border-radius: 23px;
@@ -936,7 +936,7 @@ Banner Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding: 226px 0px 120px 0px;
+  padding: 150px 0px 120px 0px;
   position: relative;
   overflow: hidden;
 }
@@ -991,6 +991,7 @@ Banner Style
 }
 
 .main-banner .left-content p {
+  /* margin: 20px 0px; */
   margin: 20px 0px;
 }
 
@@ -1402,6 +1403,7 @@ contact
 
 .phone-info {
   margin-top: 40px;
+  padding-left: 15px;
 }
 
 .phone-info h4 {
@@ -1458,6 +1460,7 @@ form#contact {
   background-color: #fff;
   padding: 60px 30px;
   border-radius: 20px;
+  margin-right: 10px;
 }
 
 form#contact input {
@@ -1564,7 +1567,7 @@ responsive
 
 @media (max-width: 992px) {
   .main-banner {
-    padding-top: 196px;
+    padding-top: 140px;
   }
 
   .main-banner .left-content {
@@ -1648,7 +1651,7 @@ responsive
   }
 
   form#contact {
-    margin-left: 0px;
+    margin-left: 10px;
     margin-top: 30px;
   }
 
